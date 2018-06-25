@@ -5,6 +5,7 @@
 ## フォーマット
 
 読んだpaperを[issue](https://github.com/palloc/PaperStack/issues)に以下のフォーマットでまとめます。
+スターくれるとやる気が出ます。
 
 ```
 
